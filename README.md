@@ -1,16 +1,14 @@
 <span align="center">
   
-<a href="minecraft.net"><img alt="Mob-Health-Bars" src="https://github.com/bloomkd46/Mob-Health-Bars/blob/master/pack.png" width="500px"></a>
+ <a href="minecraft.net"><img alt="Mob-Health-Bars" src="https://github.com/bloomkd46/Mob-Health-Bars/blob/master/pack.png" width="500px"></a>
 
-# Mob-Health-Bars
-
-
+# Custom-Ore-Gen
 
 
-### This will display the health of the mob nearest you in the form of a bossbar.
-### It will display the name (ex. enderman's Health or for named mobs Fred's Health) and make the entity glow.
-### if there is no entity within 20 blocks the bossbar will not show at all.
-### works in servers of up to 20 players.
+
+
+### This will allow you to change ore generation
+### (ex. Rarity, Size, Location)
 
 </span>
 
